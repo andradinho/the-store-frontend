@@ -12,9 +12,9 @@ const Header = () => {
             <div className="container">
                 <div className="logo">
                     <Link to="/">
-                        <span className="logo-1">A</span>
-                        <span className="logo-2">K</span>
-                        <span className="logo-3">Tech</span>
+                        <span className="logo-1">x</span>
+                        <span className="logo-2">X</span>
+                        <span className="logo-3">x</span>
                     </Link>
                 </div>
                 <nav>
