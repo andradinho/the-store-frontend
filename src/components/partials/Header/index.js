@@ -12,7 +12,20 @@ const Header = () => {
                         <span className="logo-2">K</span>
                         <span className="logo-3">Tech</span>
                     </Link>
-                </div>                
+                </div>
+                <nav>
+                    <ul>
+                        <li>
+                            <Link to="">Sign In</Link>
+                        </li>
+                        <li>
+                            <Link to="">Sign Up</Link>
+                        </li>
+                        <li>
+                            <Link to="" className="button" >Place an Ad</Link>
+                        </li>
+                    </ul>    
+                </nav>      
             </div>            
         </HeaderArea>
     )
